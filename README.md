@@ -1,1 +1,1 @@
-adding detailed readme - soon
+https://deshiproject.netlify.app
